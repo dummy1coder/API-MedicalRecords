@@ -27,13 +27,13 @@ Admin can manage doctors and view all records<br>
 Doctor	can create, update, and view their own patients' records<br>
 
 ## Medical record structure
-Each patient’s medical record may include:
-Diagnosis
-Medicines Prescribed
-Tests & Lab Results
-Allergies
-Immunizations
-Treatment Plan
+Each patient’s medical record may include:<br>
+Diagnosis<br>
+Medicines Prescribed<br>
+Tests & Lab Results<br>
+Allergies<br>
+Immunizations<br>
+Treatment Plan<br>
 
 ## Tech Stack
 
