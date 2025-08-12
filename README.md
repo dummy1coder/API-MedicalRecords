@@ -12,13 +12,13 @@ It is designed with data security, scalability, and usability in mind, making it
 
 ## Features
 
-Role-Based Access Control (RBAC) using Laravel Sanctum and spatie/laravel-permission
-CRUD operations for medical records (Diagnosis, Medicines, Allergies, Tests, etc.)
-User Management – Admins can create, update, or remove doctors
-Authentication & Authorization using Laravel Auth
-Audit Trails – timestamps for record creation and updates
-Form Validation with detailed error handling
-Secure Data Storage with MySQL database
+Role-Based Access Control (RBAC) using Laravel Sanctum and spatie/laravel-permission<br>
+CRUD operations for medical records (Diagnosis, Medicines, Allergies, Tests, etc.)<br>
+User Management – Admins can create, update, or remove doctors<br>
+Authentication & Authorization using Laravel Auth<br>
+Audit Trails – timestamps for record creation and updates<br>
+Form Validation with detailed error handling<br>
+Secure Data Storage with MySQL database<br>
 
 ### Roles and Permissions
 
